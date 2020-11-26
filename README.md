@@ -1,7 +1,6 @@
 # Awesome-Knowledge-Distillation-for-CV
 # Awesome Knowledge-Distillation for CV
-
-[TOC]
+Awesome Knowledge-Distillation for CVKnowledge from logitsKnowledge from intermediate layersOneline KDUnderstanding KD KD for model pruning , quantization, NASApplication of KDData-free KDCross-modal KD & DAAdversarial KD
 
 
 
