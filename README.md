@@ -74,29 +74,29 @@ Cross-Image Relational Knowledge Distillation for Semantic Segmentation. CVPR-20
 
 
 
- [(CVPR2017) Mimicking very efficient network for object detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100259)
+(CVPR2017) Mimicking very efficient network for object detection[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100259)
 
-[(CVPR2019) Distilling object detectors with fine-grained feature imitation](https://arxiv.org/abs/1906.03609)
-
-
- [(CVPR2021) General instance distillation for object detection](https://arxiv.org/abs/2103.02340)
+(CVPR2019) Distilling object detectors with fine-grained feature imitation[[pdf](https://arxiv.org/abs/1906.03609)
 
 
- [(CVPR2021) Distilling object detectors via decoupled features](https://arxiv.org/abs/2103.14475)
+ (CVPR2021) General instance distillation for object detection[[pdf](https://arxiv.org/abs/2103.02340)
 
 
- [(NeurIPS2021) Distilling object detectors with feature richness](https://arxiv.org/abs/2111.00674)
-
-[(CVPR2022) Focal and global knowledge distillation for detectors](https://arxiv.org/abs/2111.11837)
-
-[(AAAI2022) Rank Mimicking and Prediction-guided Feature Imitation](https://ojs.aaai.org/index.php/AAAI/article/download/20018/version/18315/19777)
+ (CVPR2021) Distilling object detectors via decoupled features[[pdf](https://arxiv.org/abs/2103.14475)
 
 
-[(ECCV2022) Prediction-Guided Distillation](https://arxiv.org/abs/2203.05469)
+ (NeurIPS2021) Distilling object detectors with feature richness[[pdf](https://arxiv.org/abs/2111.00674)
+
+(CVPR2022) Focal and global knowledge distillation for detectors[[pdf](https://arxiv.org/abs/2111.11837)
+
+(AAAI2022) Rank Mimicking and Prediction-guided Feature Imitation[[pdf](https://ojs.aaai.org/index.php/AAAI/article/download/20018/version/18315/19777)
+
+
+(ECCV2022) Prediction-Guided Distillation[[pdf](https://arxiv.org/abs/2203.05469)
 
 
 
- [(ICLR2023) Masked Distillation with Receptive Tokens](https://arxiv.org/abs/2205.14589)
+ (ICLR2023) Masked Distillation with Receptive Tokens[[pdf](https://arxiv.org/abs/2205.14589)
 
 
 
