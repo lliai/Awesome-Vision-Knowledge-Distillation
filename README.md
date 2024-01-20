@@ -1,4 +1,4 @@
-# Awesome-Knowledge-Distillation-for-CV
+# Awesome Hot  Knowledge Distillation research for Computer vision
 
 
 
