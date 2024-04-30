@@ -1,8 +1,8 @@
-# Awesome Knowledge Distillation Research in Computer vision
+# Awesome Knowledge Distillation in Computer vision
 
+[TOC]
 
-
-## Distillation for diffusion models
+## Diffusion Knowledge Distillation
 
 | Title                                                        | Venue     | Note                                                         |
 | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
@@ -39,7 +39,7 @@
 
 
 
-## Awesome Knowledge Distillation for Object Detection
+## Knowledge Distillation for Object Detection
 
 
 
@@ -93,7 +93,7 @@
 | ViTKD: Practical Guidelines for ViT feature knowledge distillation | arXiv 2022       | code |
 
 
-##  Methods for Distillation Gaps
+##  Knowledge Distillation for Teacher-Student Gaps
 
 | Title                                                        | Venue            | Note |
 | ------------------------------------------------------------ | ---------------- | ---- |
@@ -117,7 +117,7 @@
 | Supervision Complexity and its Role in Knowledge Distillation | ICLR2023         |      |
 
 
-## Knowledge from logits
+## Logits Knowledge Distillation
 
 | Title                                                        | Venue             | Note |
 | ------------------------------------------------------------ | ----------------- | ---- |
@@ -170,7 +170,7 @@
 | Progressive Knowledge Distillation For  Generative Modeling  | ICLR 2020         |      |
 | Few Shot Network Compression via Cross  Distillation         | AAAI 2020         |      |
 
-## Knowledge from intermediate layers
+## Intermediate Knowledge Distillation
 
 | Title                                                        | Venue            | Note |
 | ------------------------------------------------------------ | ---------------- | ---- |
@@ -205,7 +205,7 @@
 | Differentiable Feature Aggregation Search  for Knowledge Distillation | ECCV 2020        |      |
 | Local Correlation Consistency for Knowledge  Distillation    | ECCV 2020        |      |
 
-## Oneline KD
+## Oneline Knowledge Distillation
 
 | Title                                                        | Venue           | Note |
 | ------------------------------------------------------------ | --------------- | ---- |
@@ -231,7 +231,7 @@
 | ResKD: Residual-Guided Knowledge  Distillation               | arXiv:2006.4719 |      |
 | Interactive Knowledge Distillation                           | arXiv:2007.1476 |      |
 
-## Understanding KD 
+## Understanding Knowledge Distillation
 
 | Title                                                        | Venue            | Note |
 | ------------------------------------------------------------ | ---------------- | ---- |
@@ -259,7 +259,7 @@
 | Few-Shot Class-Incremental Learning                          | CVPR 2020        |      |
 | Unifying distillation and privileged  information            | ICLR 2016        |      |
 
-## KD for model pruning , quantization, NAS
+## Knowledge Distillation with Pruning , Quantization, NAS
 
 | Title                                                        | Venue             | Note |
 | ------------------------------------------------------------ | ----------------- | ---- |
@@ -292,7 +292,7 @@
 | Search to Distill: Pearls are Everywhere but  not the Eyes   | CVPR 2020         |      |
 | AutoGAN-Distiller: Searching to Compress  Generative Adversarial Networks | ICML 2020 [code]  |      |
 
-## Application of KD
+## Application of Knowledge Distillation
 
 | Sub          | Title                                                        | Venue            |
 | ------------ | ------------------------------------------------------------ | ---------------- |
@@ -353,7 +353,7 @@
 
 
 
-## Data-free KD
+## Data-free Knowledge Distillation
 
 | Title                                                        | Venue            | Note |
 | ------------------------------------------------------------ | ---------------- | ---- |
@@ -379,7 +379,7 @@
 
 
 
-## Cross-modal KD & DA
+## Cross-modal Knowledge Distillation
 
 | Title                                                        | Venue            | Note |
 | ------------------------------------------------------------ | ---------------- | ---- |
@@ -413,7 +413,7 @@
 | Modality distillation with multiple stream  networks for action recognition | ECCV 2018        |      |
 | Domain Adaptation through Task Distillation                  | ECCV 2020        |      |
 
-## Adversarial KD
+## Adversarial Knowledge Distillation
 
 | Title                                                        | Venue            | Note |
 | ------------------------------------------------------------ | ---------------- | ---- |
