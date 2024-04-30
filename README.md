@@ -1,4 +1,4 @@
-# Awesome Hot  Knowledge Distillation research for Computer vision
+# Awesome Knowledge Distillation Research in Computer vision
 
 
 
