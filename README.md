@@ -4,66 +4,36 @@
 
 ## Distillation for diffusion models
 
-- **A Comprehensive Survey on Knowledge Distillation of Diffusion Models**. 2023
-
-    *Weijian Luo*. [[pdf](https://arxiv.org/pdf/2304.04262.pdf)]
-
-
-
-- **Knowledge distillation in iterative generative models for improved sampling speed**. 2021.
-
-    *Eric Luhman, Troy Luhman*. [[pdf](https://arxiv.org/abs/2101.02388)]
-
-- **Progressive Distillation for Fast Sampling of Diffusion Models**. ICLR 2022.
-
-    *Tim Salimans and Jonathan Ho*. [[pdf](https://arxiv.org/abs/2202.00512)]
-
-- **On Distillation of Guided Diffusion Models**. CVPR 2023.
-
-    *Chenlin Meng and Robin Rombach and Ruiqi Gao and Diederik P. Kingma and Stefano Ermon and Jonathan Ho and Tim Salimans*. [[pdf](https://arxiv.org/abs/2210.03142)]
-
-- **TRACT: Denoising Diffusion Models with Transitive Closure Time-Distillation**. 2023
-
-    *Berthelot, David and Autef, Arnaud and Lin, Jierui and Yap, Dian Ang and Zhai, Shuangfei and Hu, Siyuan and Zheng, Daniel and Talbott, Walter and Gu, Eric*. [[pdf]](https://arxiv.org/abs/2303.04248)
-
-- **BK-SDM: Architecturally Compressed Stable Diffusion for Efficient Text-to-Image Generation**. ICML 2023.
-
-    *Kim, Bo-Kyeong and Song, Hyoung-Kyu and Castells, Thibault and Choi, Shinkook*. [[pdf](https://openreview.net/forum?id=bOVydU0XKC)]
-
-- **On Architectural Compression of Text-to-Image Diffusion Models**. 2023.
-
-    *Kim, Bo-Kyeong and Song, Hyoung-Kyu and Castells, Thibault and Choi, Shinkook*. [[pdf](https://arxiv.org/abs/2305.15798)]
-
-- **Knowledge Diffusion for Distillation**. 2023.
-
-    *Tao Huang, Yuan Zhang, Mingkai Zheng, Shan You, Fei Wang, Chen Qian, Chang Xu* [[pdf](https://www.researchgate.net/publication/371040763_Knowledge_Diffusion_for_Distillation)]
-
-- **SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**. 2023.
-
-    *Yanyu Li, Huan Wang, Qing Jin, Ju Hu, Pavlo Chemerys, Yun Fu, Yanzhi Wang, Sergey Tulyakov, Jian Ren1*. [[pdf](https://snap-research.github.io/SnapFusion/)]
-
-- **BOOT: Data-free Distillation of Denoising Diffusion Models with Bootstrapping**. 2023. 
-
-    *Jiatao Gu, Shuangfei Zhai, Yizhe Zhang, Lingjie Liu, Josh Susskind*. [[pdf](https://arxiv.org/abs/2306.05544)]
-
-- **Consistency models**. 2023
-
-    *Yang Song, Prafulla Dhariwal, Mark Chen, and Ilya Sutskever*. [[pdf](https://arxiv.org/abs/2303.01469)]
+| Title                                                        | Venue     | Note                                                         |
+| ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
+| A Comprehensive Survey on Knowledge Distillation of Diffusion Models | 2023      | Weijian Luo. [[pdf](https://arxiv.org/pdf/2304.04262.pdf)]   |
+| Knowledge distillation in iterative generative models for improved sampling speed | 2021      | Eric Luhman, Troy Luhman. [[pdf](https://arxiv.org/abs/2101.02388)] |
+| Progressive Distillation for Fast Sampling of Diffusion Models | ICLR 2022 | Tim Salimans and Jonathan Ho. [[pdf](https://arxiv.org/abs/2202.00512)] |
+| On Distillation of Guided Diffusion Models                   | CVPR 2023 | Chenlin Meng, Robin Rombach, Ruiqi Gao, Diederik P. Kingma, Stefano Ermon, Jonathan Ho, Tim Salimans. [[pdf](https://arxiv.org/abs/2210.03142)] |
+| TRACT: Denoising Diffusion Models with Transitive Closure Time-Distillation | 2023      | Berthelot, David, Autef, Arnaud, Lin, Jierui, Yap, Dian Ang, Zhai, Shuangfei, Hu, Siyuan, Zheng, Daniel, Talbott, Walter, Gu, Eric. [[pdf]](https://arxiv.org/abs/2303.04248) |
+| BK-SDM: Architecturally Compressed Stable Diffusion for Efficient Text-to-Image Generation | ICML 2023 | Kim, Bo-Kyeong, Song, Hyoung-Kyu, Castells, Thibault, Choi, Shinkook. [[pdf](https://openreview.net/forum?id=bOVydU0XKC)] |
+| On Architectural Compression of Text-to-Image Diffusion Models | 2023      | Kim, Bo-Kyeong, Song, Hyoung-Kyu, Castells, Thibault, Choi, Shinkook. [[pdf](https://arxiv.org/abs/2305.15798)] |
+| Knowledge Diffusion for Distillation                         | 2023      | Tao Huang, Yuan Zhang, Mingkai Zheng, Shan You, Fei Wang, Chen Qian, Chang Xu. [[pdf](https://www.researchgate.net/publication/371040763_Knowledge_Diffusion_for_Distillation)] |
+| SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds | 2023      | Yanyu Li, Huan Wang, Qing Jin, Ju Hu, Pavlo Chemerys, Yun Fu, Yanzhi Wang, Sergey Tulyakov, Jian Ren1. [[pdf](https://snap-research.github.io/SnapFusion/)] |
+| BOOT: Data-free Distillation of Denoising Diffusion Models with Bootstrapping | 2023      | Jiatao Gu, Shuangfei Zhai, Yizhe Zhang, Lingjie Liu, Josh Susskind. [[pdf](https://arxiv.org/abs/2306.05544)] |
+| Consistency models                                           | 2023      | Yang Song, Prafulla Dhariwal, Mark Chen, and Ilya Sutskever. [[pdf](https://arxiv.org/abs/2303.01469)] |
 
 
-##  Knowledge Distillation Knowledge Distillation for Semantic Segmentation
+##  Knowledge Distillation for Semantic Segmentation
 
 
 
-Structured knowledge distillation for semantic segmentation. CVPR-2019.
-
-Intra-class feature variation distillation for semantic segmentation. ECCV-2020.
-
-Channel-wise knowledge distillation for dense prediction. ICCV-2021. 
-
-Double Similarity Distillation for Semantic Image Segmentation. TIP-2021. 
-
-Cross-Image Relational Knowledge Distillation for Semantic Segmentation. CVPR-2022. 
+| Title                                                        | Venue            | Note |
+| ------------------------------------------------------------ | ---------------- | ---- |
+| Training Shallow and Thin Networks for  Acceleration via Knowledge Distillation with Conditional Adversarial Networks | arXiv:1709.00513 |      |
+| Knowledge Distillation for Semantic Segmentation             |                  |      |
+| Structured knowledge distillation for semantic segmentation  | CVPR-2019        |      |
+| Intra-class feature variation distillation for semantic segmentation | ECCV-2020        |      |
+| Channel-wise knowledge distillation for dense prediction     | ICCV-2021        |      |
+| Double Similarity Distillation for Semantic Image Segmentation | TIP-2021         |      |
+| Cross-Image Relational Knowledge Distillation for Semantic Segmentation | CVPR-2022        |      |
+|                                                              |                  |      |
+|                                                              |                  |      |
 
 
 
@@ -73,112 +43,36 @@ Cross-Image Relational Knowledge Distillation for Semantic Segmentation. CVPR-20
 
 
 
-
-(CVPR2017) Mimicking very efficient network for object detection[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100259)]
-
-(CVPR2019) Distilling object detectors with fine-grained feature imitation[[pdf](https://arxiv.org/abs/1906.03609)]
-
-
- (CVPR2021) General instance distillation for object detection[[pdf](https://arxiv.org/abs/2103.02340)]
-
-
- (CVPR2021) Distilling object detectors via decoupled features[[pdf](https://arxiv.org/abs/2103.14475)]
-
-
- (NeurIPS2021) Distilling object detectors with feature richness[[pdf](https://arxiv.org/abs/2111.00674)]
-
-(CVPR2022) Focal and global knowledge distillation for detectors[[pdf](https://arxiv.org/abs/2111.11837)]
-
-(AAAI2022) Rank Mimicking and Prediction-guided Feature Imitation[[pdf](https://ojs.aaai.org/index.php/AAAI/article/download/20018/version/18315/19777)]
-
-
-(ECCV2022) Prediction-Guided Distillation[[pdf](https://arxiv.org/abs/2203.05469)]
-
-
-
- (ICLR2023) Masked Distillation with Receptive Tokens[[pdf](https://arxiv.org/abs/2205.14589)]
-
-
-
-SSIM. *NeurIPS 2022*.
-\[[OpenReview](https://openreview.net/forum?id=O3My0RK9s_R)\]
-\[[arXiv](https://arxiv.org/abs/2211.13133v1)\]
-<[GitHub](https://github.com/kornia/kornia)>
-\- Structural Knowledge Distillation for Object Detection
-
-
-DRKD. *IJCAI 2023*.
-\[[arXiv](https://arxiv.org/abs/2302.05637)\]
-\- Dual Relation Knowledge Distillation for Object Detection
+| Title                                                        | Venue            | Note                                                         |
+| ------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ |
+| Training Shallow and Thin Networks for Acceleration via Knowledge Distillation with Conditional Adversarial Networks | arXiv:1709.00513 |                                                              |
+| Mimicking very efficient network for object detection        | CVPR 2017        | [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100259) |
+| Distilling object detectors with fine-grained feature imitation | CVPR 2019        | [pdf](https://arxiv.org/abs/1906.03609)                      |
+| General instance distillation for object detection           | CVPR 2021        | [pdf](https://arxiv.org/abs/2103.02340)                      |
+| Distilling object detectors via decoupled features           | CVPR 2021        | [pdf](https://arxiv.org/abs/2103.14475)                      |
+| Distilling object detectors with feature richness            | NeurIPS 2021     | [pdf](https://arxiv.org/abs/2111.00674)                      |
+| Focal and global knowledge distillation for detectors        | CVPR 2022        | [pdf](https://arxiv.org/abs/2111.11837)                      |
+| Rank Mimicking and Prediction-guided Feature Imitation       | AAAI 2022        | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/20018/version/18315/19777) |
+| Prediction-Guided Distillation                               | ECCV 2022        | [pdf](https://arxiv.org/abs/2203.05469)                      |
+| Masked Distillation with Receptive Tokens                    | ICLR 2023        | [pdf](https://arxiv.org/abs/2205.14589)                      |
+| Structural Knowledge Distillation for Object Detection       | NeurIPS 2022     | [OpenReview](https://openreview.net/forum?id=O3My0RK9s_R)    |
+| Dual Relation Knowledge Distillation for Object Detection    | IJCAI 2023       | [pdf](https://arxiv.org/abs/2302.05637)                      |
+| GLAMD: Global and Local Attention Mask Distillation for Object Detectors | ECCV 2022        | [ECVA](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700456.pdf) |
+| G-DetKD: Towards General Distillation Framework for Object Detectors via Contrastive and Semantic-guided Feature Imitation | ICCV 2021        | [CVF](http://openaccess.thecvf.com/content/ICCV2021/html/Yao_G-DetKD_Towards_General_Distillation_Framework_for_Object_Detectors_via_Contrastive_ICCV_2021_paper.html) |
+| PKD: General Distillation Framework for Object Detectors via Pearson Correlation Coefficient | NeurIPS 2022     | [OpenReview](https://openreview.net/forum?id=Q9dj3MzY1o7)    |
+| MimicDet: Bridging the Gap Between One-Stage and Two-Stage Object Detection | ECCV 2020        | [ECVA](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590528.pdf) |
+| LabelEnc: A New Intermediate Supervision Method for Object Detection | ECCV 2020        | [ECVA](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700528.pdf) |
 
 
 
 
-
-GLAMD. *ECCV 2022*.
-\[[ECVA](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700456.pdf)\]
-\[[Springer](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_27)\]
-\- GLAMD: Global and Local Attention Mask Distillation for Object Detectors
-
-
-
-G-DetKD. *ICCV 2021*.
-\[[CVF](http://openaccess.thecvf.com/content/ICCV2021/html/Yao_G-DetKD_Towards_General_Distillation_Framework_for_Object_Detectors_via_Contrastive_ICCV_2021_paper.html)\]
-\[[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9711293/)\]
-\[[arXiv](http://arxiv.org/abs/2108.07482)\]
-\- G-DetKD: Towards General Distillation Framework for Object Detectors via Contrastive and Semantic-guided Feature Imitation
-
-
-PKD. *NeurIPS 2022*.
-\[[OpenReview](https://openreview.net/forum?id=Q9dj3MzY1o7)\]
-\[[arXiv](https://arxiv.org/abs/2207.02039v2)\]
-<[GitHub](https://github.com/open-mmlab/mmrazor)>
-\-  PKD: General Distillation Framework for Object Detectors via Pearson Correlation Coefficient
-
-
-MimicDet. *ECCV 2020*.
-\[[ECVA](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590528.pdf)\]
-\[[Springer](https://link.springer.com/chapter/10.1007/978-3-030-58568-6_32)\]
-\[[arXiv](http://arxiv.org/abs/2009.11528)\]
-\- MimicDet: Bridging the Gap Between One-Stage and Two-Stage Object Detection
-
-
-LabelEnc. *ECCV 2020*.
-\[[ECVA](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700528.pdf)\]
-\[[Springer](https://link.springer.com/chapter/10.1007/978-3-030-58595-2_32)\]
-\[[arXiv](http://arxiv.org/abs/2007.03282)\]
-<[GitHub](https://github.com/megvii-model/LabelEnc)>
-\- LabelEnc: A New Intermediate Supervision Method for Object Detection
-
-
-HEAD. *ECCV 2022*.
-\[[ECVA](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690310.pdf)\]
-\[[Springer](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_19)\]
-\[[arXiv](https://arxiv.org/abs/2207.05345)\]
-<[GitHub](https://github.com/LutingWang/HEAD)>
-\- HEAD: HEtero-Assists Distillation for Heterogeneous Object Detectors
-
-
-LGD. *AAAI 2022*.
-\[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/20240)\]
-\[[arXiv](http://arxiv.org/abs/2109.11496)\]
-\- LGD: Label-Guided Self-Distillation for Object Detection
-
-*TPAMI*.
-\[[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10070820)\]
-\- When Object Detection Meets Knowledge Distillation: A Survey
-
-
-ScaleKD. *CVPR 2023*.
-\[[CVF](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_ScaleKD_Distilling_Scale-Aware_Knowledge_in_Small_Object_Detector_CVPR_2023_paper.html)\]
-\- ScaleKD: Distilling Scale-Aware Knowledge in Small Object Detector.
-
-
-
-CrossKD.
-\[[arXiv](https://arxiv.org/abs/2306.11369)\]
-<[GitHub](https://github.com/jbwang1997/CrossKD)>
-\- CrossKD: Cross-Head Knowledge Distillation for Dense Object Detection
+| Title                                                        | Venue            | Note    |
+| ------------------------------------------------------------ | ---------------- | ------- |
+| HEtero-Assists Distillation for Heterogeneous Object Detectors | ECCV 2022        | HEAD    |
+| LGD: Label-Guided Self-Distillation for Object Detection     | AAAI 2022        | LGD     |
+| When Object Detection Meets Knowledge Distillation: A Survey | TPAMI            |         |
+| ScaleKD: Distilling Scale-Aware Knowledge in Small Object Detector | CVPR 2023        | ScaleKD |
+| CrossKD: Cross-Head Knowledge Distillation for Dense Object Detection | arXiv:2306.11369 | CrossKD |
 
 
 
@@ -186,70 +80,41 @@ CrossKD.
 
 ##  Knowledge Distillation in Vision Transformers
 
-
-Training data-efficient image transformers & distillation through attention. ICML2021
-
-Co-advise: Cross inductive bias distillation.CVPR2022.
-
-Tinyvit: Fast pretraining distillation for small vision
-transformers. arXiv preprint arXiv:2207.10666.
-
-Attention Probe: Vision Transformer Distillation in the Wild. ICASSP2022
-
-
-Dear KD: Data-Efficient Early Knowledge Distillation for Vision Transformers. CVPR2022
-
-
-Efficient vision transformers via fine-grained manifold distillation. NIPS2022
-
-
- Cross-Architecture Knowledge Distillation. arXiv preprint arXiv:2207.05273. ACCV2022
-
-
-MiniViT: Compressing Vision Transformers with Weight Multiplexing. CVPR2022
-
-ViTKD: Practical Guidelines for ViT feature knowledge distillation. arXiv 2022, code
+| Title                                                        | Venue            | Note |
+| ------------------------------------------------------------ | ---------------- | ---- |
+| Training data-efficient image transformers & distillation through attention | ICML2021         |      |
+| Co-advise: Cross inductive bias distillation                 | CVPR2022         |      |
+| Tinyvit: Fast pretraining distillation for small vision transformers | arXiv:2207.10666 |      |
+| Attention Probe: Vision Transformer Distillation in the Wild | ICASSP2022       |      |
+| Dear KD: Data-Efficient Early Knowledge Distillation for Vision Transformers | CVPR2022         |      |
+| Efficient vision transformers via fine-grained manifold distillation | NIPS2022         |      |
+| Cross-Architecture Knowledge Distillation                    | arXiv:2207.05273 |      |
+| MiniViT: Compressing Vision Transformers with Weight Multiplexing | CVPR2022         |      |
+| ViTKD: Practical Guidelines for ViT feature knowledge distillation | arXiv 2022       | code |
 
 
 ##  Methods for Distillation Gaps
 
-Improved Knowledge Distillation via Teacher Assistant: Bridging the Gap Between Student and Teacher. Mirzadeh et al. AAAI2020
-
-Search to Distill: Pearls are Everywhere but not the Eyes. Liu Yu et al. CVPR 2020
-
-Reducing the Teacher-Student Gap via Spherical Knowledge Disitllation, arXiv:2020
-
-Knowledge Distillation via the Target-aware Transformer, CVPR2022
-
-Decoupled Knowledge Distillation, Borui Zhao, et al. , CVPR 2022, code
-
-Prune Your Model Before Distill It, Jinhyuk Park and Albert No, ECCV 2022, code
-
-Asymmetric Temperature Scaling Makes Larger Networks Teach Well Again, NeurIPS 2022
-
-Weighted Distillation with Unlabeled Examples, NeurIPS 2022
-
-Respecting Transfer Gap in Knowledge Distillation, NeurIPS 2022
-
-
-Knowledge Distillation from A Stronger Teacher. arXiv preprint arXiv:2205.10536.
-
-Masked Generative Distillation, Zhendong Yang, et al. , ECCV 2022, code
-
-
-Curriculum Temperature for Knowledge Distillation, Zheng Li, et al. , AAAI 2023, code
-
-Knowledge distillation: A good teacher is patient and consistent, Lucas Beyeret al.  CVPR 2022
-
-Knowledge Distillation with the Reused Teacher Classifier, Defang Chen, et al. , CVPR 2022
-
-Scaffolding a Student to Instill Knowledge, ICLR2023
-
-Function-Consistent Feature Distillation, ICLR2023
-
-Better Teacher Better Student: Dynamic Prior Knowledge for Knowledge Distillation, ICLR2023
-
-Supervision Complexity and its Role in Knowledge Distillation, ICLR2023
+| Title                                                        | Venue            | Note |
+| ------------------------------------------------------------ | ---------------- | ---- |
+| Improved Knowledge Distillation via Teacher Assistant: Bridging the Gap Between Student and Teacher | AAAI2020         |      |
+| Search to Distill: Pearls are Everywhere but not the Eyes    | CVPR 2020        |      |
+| Reducing the Teacher-Student Gap via Spherical Knowledge Disitllation | arXiv:2020       |      |
+| Knowledge Distillation via the Target-aware Transformer      | CVPR2022         |      |
+| Decoupled Knowledge Distillation                             | CVPR 2022        | code |
+| Prune Your Model Before Distill It                           | ECCV 2022        | code |
+| Asymmetric Temperature Scaling Makes Larger Networks Teach Well Again | NeurIPS 2022     |      |
+| Weighted Distillation with Unlabeled Examples                | NeurIPS 2022     |      |
+| Respecting Transfer Gap in Knowledge Distillation            | NeurIPS 2022     |      |
+| Knowledge Distillation from A Stronger Teacher               | arXiv:2205.10536 |      |
+| Masked Generative Distillation                               | ECCV 2022        | code |
+| Curriculum Temperature for Knowledge Distillation            | AAAI 2023        | code |
+| Knowledge distillation: A good teacher is patient and consistent | CVPR 2022        |      |
+| Knowledge Distillation with the Reused Teacher Classifier    | CVPR 2022        |      |
+| Scaffolding a Student to Instill Knowledge                   | ICLR2023         |      |
+| Function-Consistent Feature Distillation                     | ICLR2023         |      |
+| Better Teacher Better Student: Dynamic Prior Knowledge for Knowledge Distillation | ICLR2023         |      |
+| Supervision Complexity and its Role in Knowledge Distillation | ICLR2023         |      |
 
 
 ## Knowledge from logits
